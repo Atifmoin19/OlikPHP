@@ -41,14 +41,13 @@
         <div class="row mt-5 justify-content-center">
           <div class="col-12">
             <div class="title-heading text-center">
-              <small class="text-white-50 mb-1 fw-medium text-uppercase mx-auto"
-                >Get in touch</small
-              >
+              
               <h5
                 class="heading fw-semibold mb-0 page-heading text-white title-dark"
               >
                 Contact us
               </h5>
+              <p class='text-center px-5 text-white'><small>We'd love to hear from you! Reach out to our team for inquiries, requests, or any other information you need. We're here to assist you on your sustainability journey.</small></p>
             </div>
           </div>
           <!--end col-->
@@ -58,7 +57,7 @@
         <div class="position-middle-bottom">
           <nav aria-label="breadcrumb" class="d-block">
             <ul class="breadcrumb breadcrumb-muted mb-0 p-0">
-              <li class="breadcrumb-item"><a href="index.html">Starty</a></li>
+              <li class="breadcrumb-item"><a href="index.php">Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">
                 Contact Us
               </li>
@@ -70,7 +69,6 @@
     </section>
     <section class="section pb-0 pt-5">
       <div class="container">
-        <p class='text-center px-5'><small>We'd love to hear from you! Reach out to our team for inquiries, requests, or any other information you need. We're here to assist you on your sustainability journey.</small></p>
         <div class="row d-flex align-items-start ">
           <div class="col-md-4 mt-4 mt-sm-0 pt-2 pt-sm-0">
             <div
