@@ -19,6 +19,7 @@
         <link href="css/tiny-slider.css" rel="stylesheet" type="text/css" />
         <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
         <link href="https://unicons.iconscout.com/release/v3.0.6/css/line.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
         <!-- Main Css -->
         <link href="css/style.min.css" rel="stylesheet" type="text/css" id="theme-opt" />
 
@@ -67,16 +68,19 @@
       </div>
       <!--end container-->
     </section>
-    <section class="section pb-0">
+    <section class="section pb-0 pt-5">
       <div class="container">
-        <div class="row">
-          <div class="col-md-4">
+        <p class='text-center px-5'><small>We'd love to hear from you! Reach out to our team for inquiries, requests, or any other information you need. We're here to assist you on your sustainability journey.</small></p>
+        <div class="row d-flex align-items-start ">
+          <div class="col-md-4 mt-4 mt-sm-0 pt-2 pt-sm-0">
             <div
               class="card border-0 text-center features feature-clean bg-transparent"
             >
-              <div class="icons text-primary text-center mx-auto">
-                <i class="uil uil-phone d-block rounded h3 mb-0"></i>
-              </div>
+              <div class="icons text-primary text-center mx-auto d-block rounded h3 mb-0">
+                <!-- <i class="uil uil-phone d-block rounded h3 mb-0"></i>
+             -->
+             <i class="fa-solid fa-address-card"></i>
+                       </div>
               <div class="content mt-3">
                 <h5 class="footer-head">Contact Information</h5>
                 <a href="tel:+152534-468-854" class="text-foot d-flex justify-content-center align-items-start gap-2"
@@ -103,15 +107,16 @@
             <div
               class="card border-0 text-center features feature-clean bg-transparent"
             >
-              <div class="icons text-primary text-center mx-auto">
-                <i class="uil uil-envelope d-block rounded h3 mb-0"></i>
+              <div class="icons text-primary text-center mx-auto d-block rounded h3 mb-0">
+              <i class="fa-solid fa-headset "></i>  
+
               </div>
               <div class="content mt-3">
                 <h5 class="footer-head">Customer Support</h5>
-                <p class="text-muted font-12">
-                Our dedicated customer support team is ready to assist you with any questions or concerns you may have.
+                <p class="text-muted mb-0">
+               <small> Our dedicated customer support team is ready to assist you with any questions or concerns you may have.</small>
                 </p>
-               <p class='m-0'>Operating Hours</p> <p clas='m-0'>Monday-Friday, 9:00 AM - 5:00 PM</p> 
+               <a><p class='m-0 text-#15af62' >Operating Hours</p> <small clas='m-0'>Monday-Friday, 9:00 AM - 5:00 PM</small> </a>
               </div>
             </div>
           </div>
@@ -121,23 +126,27 @@
             <div
               class="card border-0 text-center features feature-clean bg-transparent"
             >
-              <div class="icons text-primary text-center mx-auto">
-                <i class="uil uil-map-marker d-block rounded h3 mb-0"></i>
+              <div class="icons text-primary text-center mx-auto  d-block rounded h3 mb-0">
+              <i class="fa-solid fa-info"></i>
+              
               </div>
               <div class="content mt-3">
-                <h5 class="footer-head">Location</h5>
-                <p class="text-muted">
-                  C/54 Northwest Freeway, Suite 558, <br />Houston, USA 485
+                <h5 class="footer-head">Sales Inquiries</h5>
+                <p class="text-muted mb-0">
+                <small> 
+                For sales inquiries, product demos, or partnership opportunities, please get in touch with our sales team.
+                </small>
                 </p>
-                <a
-                  href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39206.002432144705!2d-95.4973981212445!3d29.709510002925988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640c16de81f3ca5:0xf43e0b60ae539ac9!2sGerald+D.+Hines+Waterwall+Park!5e0!3m2!1sen!2sin!4v1566305861440!5m2!1sen!2sin"
-                  data-type="iframe"
-                  class="video-play-icon text-foot lightbox"
-                  >View on Google map</a
+                <a href="tel:+152534-468-854" class="text-foot d-flex justify-content-center align-items-start gap-2"
+                  > <i class="uil uil-phone rounded h5"></i> <p class='mb-0'>+152 534-468-854</p> </a
+                >
+                <a href="mailto:contact@example.com" class="text-foot d-flex justify-content-center align-items-start gap-2"
+                  ><i class="uil uil-envelope rounded h5"></i> <p class='m-0'>contact@example.com</p> </a
                 >
               </div>
             </div>
           </div>
+       
           <!--end col-->
         </div>
         <!--end row-->
@@ -150,7 +159,7 @@
             <div class="section-title mb-5 pb-2 text-center">
               <h4 class="title mb-3">Get In Touch !</h4>
               <p class="text-muted para-desc mx-auto mb-0">
-              We value your privacy and will handle your information in accordance with our privacy policy.
+              If you have any general inquiries, feedback, or suggestions, we're all ears! Fill out the form below or send us an email, and we'll get back to you promptly.
               </p>
             </div>
             <div class="custom-form">
@@ -244,9 +253,13 @@
           </div>
           <!--end col-->
         </div>
+        <p class='text-center my-5'>
+        We value your privacy and will handle your information in accordance with our privacy policy.
+      </p>
         <!--end row-->
       </div>
       <!--end container-->
+      
 
       <div class="container-fluid mt-100 mt-60">
         <div class="row">
