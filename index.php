@@ -31,7 +31,7 @@
         <!-- Navbar End -->
 
         <!-- Start -->
-        <section class="bg-half-260 d-table w-100" style="background: url('images/bg/bg.jpg') center;">
+        <!-- <section class="bg-half-260 d-table w-100" style="background: url('images/bg/bg.jpg') center;">
             <div class="bg-overlay"></div>
             <div class="container">
                 <div class="row mt-5">
@@ -41,13 +41,37 @@
                             <p class="text-white-50 para-desc mb-0">Empowering businesses to reduce their Carbon Footprint the digital way</p>
 
                             <div class="mt-4 pt-2">
-                                <a href="#contact" class="btn btn-primary m-1">Get a Demo</a>
-                                <!-- <a href="index-charity.html#!" data-type="youtube" data-id="yba7hPeTSjk" class="btn btn-icon btn-pills btn-primary m-1 lightbox"><i data-feather="video" class="icons"></i></a><span class="text-light title-dark small align-middle ms-1">Watch Now</span> -->
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section> -->
+        <!--end section-->
+        <section class="bg-half-170 pb-0 d-table w-100" style="background: url('images/bg/corporate01.png') no-repeat center; background-size:cover">
+        <div class="bg-overlay bg-gradient-multiply" style='opacity:0.5'></div>    
+        <div class="container">
+                <div class="row mt-5 align-items-center">
+                    <div class="col-lg-7 col-md-6">
+                        <div class="title-heading">
+                            <h4 class="display-4 mb-4 fw-bold title-dark"> Digitalizing Circularity <br>Journey for Brands</h4>
+                            <p class="text-black-50 para-desc mb-0">Empowering Businesses to Overcome Environmental Challenges</p>
+                            <div class="mt-4 pt-2">
+                                <a href="contact-us.php" class="btn btn-lg btn-pills btn-primary">Work with us</a>
                             </div>
                         </div>
                     </div><!--end col-->
+
+                    <div class="col-lg-5 col-md-6 mt-5 mt-sm-0">
+                        <img src="images/corporate01.png" class="img-fluid" alt="">
+                    </div>
                 </div><!--end row-->
-            </div><!--end container-->
+                <div class='p-5'></div>
+                
+            </div> <!--end container-->
         </section><!--end section-->
         <!-- End -->
 
@@ -56,7 +80,9 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-10">
-                        <div class="features-absolute rounded shadow p-md-5 p-4 bg-white">
+
+                    <!-- animated figures -->
+                        <!-- <div class="rounded shadow p-md-5 p-4 bg-white">
                             <div class="row align-items-center">
                                 <div class="col-md-6">
                                     <div class="section-title">
@@ -64,41 +90,19 @@
                                         <h4 class="mb-0 display-1 fw-bold title-dark mt-2"><span class="counter-value" data-target="1272">1</span></h4>
                                         <h4 class="text-muted title fw-semibold mb-3">Metric ton CO<sub>2</sub></h4>
                                     </div>
-                                </div><!--end col-->
+                                </div>
 
                                 <div class="col-md-6 mt-4 mt-md-0 pt-md-0">
                                     <div class="progress-box">
                                         <p class="text-muted para-desc mb-0">With Olik, brands have been able to reduce & track this much of their Carbon Emission</p>
-                                    </div><!--end process box-->
-                                </div><!--end col-->
-                            </div><!--end row-->
-                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
                     </div><!--end col-->
                 </div><!--end row-->
             </div><!--end container-->
-
-            <div class="container">
-                <div class="row justify-content-center mt-4">
-                    <div class="col-lg-2 col-md-2 col-6 text-center mt-4">
-                        <img src="images/client-logos/H&M-logo.png" height="46" alt="H&M">
-                    </div><!--end col-->
-
-                    <div class="col-lg-2 col-md-2 col-6 text-center mt-4">
-                        <img src="images/client-logos/decathlon-logo.png" height="46" alt="Decathlon">
-                    </div><!--end col-->
-
-                    <div class="col-lg-2 col-md-2 col-6 text-center mt-4">
-                        <img src="images/client-logos/ikea-logo.jpeg" height="44" alt="IKEA">
-                    </div><!--end col-->
-
-                    <div class="col-lg-2 col-md-2 col-6 text-center mt-4">
-                        <img src="images/client-logos/sangeetha-mobiles-logo.png" height="46" alt="Sangeetha Mobiles">
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
-
-
-            <div class="container mt-100 mt-60">
+            <div class="container mt-50 mt-60">
                 <div class="row align-items-center">
                     <div class="col-lg-5 col-md-6">
                         <img src="images/sustainability-challenge.jpg" class="img-fluid rounded shadow" alt="">
@@ -113,9 +117,164 @@
                     </div><!--end col-->
                 </div><!--end row-->
             </div><!--end container-->
+        </section>
+
+        <section class="section">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12">
+                        <div class="section-title text-center mb-4 pb-2">
+                            <h4 class="title fw-semibold mb-3">Problem Identification</h4>
+                            <!-- <p class="text-muted para-desc mx-auto mb-0">Our design projects are fresh and simple and will benefit your business greatly. Learn more about our work!</p> -->
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+
+                <div class="row">
+                    <div class="col-lg-4 mt-4 pt-2">
+                        <div class="features feature-primary feature-bg border-0 p-4 rounded shadow">
+                            <div class="fea-icon rounded text-white title-dark">
+                            <i class="uil uil-trash-alt"></i>
+                            </div>
+
+                            <div class="content mt-3">
+                                <a href="page-single-service.html" class="title h6 text-dark"> Inefficient Processes and Resource Wastage</a>
+                                <p class="text-muted mt-2 mb-0 text-xs"><small>Businesses often struggle with workshop operations, leading to time and resource inefficiencies. Without proper management, materials and resources are wasted, impacting profitability and sustainability efforts.</small></p>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                        <div class="features feature-primary feature-bg border-0 p-4 rounded shadow">
+                            <div class="fea-icon rounded text-white title-dark">
+                            <span class="mdi mdi-sprout h4"></span>
+                            </div>
+
+                            <div class="content mt-3">
+                                <a href="page-single-service.html" class="title h6 text-dark">Excessive Inventory and Environmental Impact</a>
+                                <p class="text-muted para mt-2 mb-0 text-xs">
+<small>
+The fast-paced consumer landscape results in excess inventory, which contributes to environmental degradation. Disposing of unsold products puts a strain on resources and harms the planet.
+    
+</small>                                </p>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+
+                    <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                        <div class="features feature-primary feature-bg border-0 p-4 rounded shadow">
+                            <div class="fea-icon rounded text-white title-dark">
+                            <i class="uil uil-database"></i>
+                            </div>
+
+                            <div class="content mt-3">
+                                <a href="page-single-service.html" class="title h6 text-dark">High Consumption and Storage Challenges</a>
+                                <p class="text-muted para mt-2 mb-0 text-xs">
+<small>
+Businesses face the dilemma of meeting consumer demand while minimizing resource consumption. High upfront costs and storage requirements pose additional hurdles to sustainable practices.
+
+</small>                                </p>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container-->
+
+            <div class="container mt-100 mt-60">
+                <div class="row align-items-center">
+                    <div class="col-lg-5 col-md-6">
+                        <img src="images/about02.jpg" class="img-fluid rounded shadow" alt="">
+                    </div><!--end col-->
+
+                    <div class="col-lg-7 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                        <div class="section-title ms-lg-5">
+                            <h4 class="title fw-semibold mb-3">Repairability</h4>
+                            <p class="text-muted para-desc mb-0">With Olik's Repairability, businesses gain complete control over their workshop operations. Our intuitive digital platform optimizes workflows, enhances customer experiences, and provides actionable insights.</p>
+                        
+                            <div class="row mt-4">
+                                <div class="col-12">
+                                    <ul class="mb-0 list-unstyled">
+                                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span> Streamlined processes and optimized resource utilization.</li>
+                                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span> Enhanced customer experiences through efficient service delivery.</li>
+                                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span> Actionable insights for data-driven decision-making. </li>
+                                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span> Reduced waste and minimized environmental impact. </li>
+                                    </ul>
+                                </div><!--end col-->
+                            </div><!--end row-->
+
+                            <div class="mt-4">
+                                <a href="product-repair.php" class="btn btn-primary">Read More <i class="uil uil-arrow-right align-middle"></i></a>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container-->
+
+
+            <div class="container mt-100 mt-60">
+                <div class="row align-items-center">
+                    <div class="col-lg-7 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                        <div class="section-title ms-lg-5">
+                            <h4 class="title fw-semibold mb-3">Rental Solution</h4>
+                            <p class="text-muted para-desc mb-0">Our Rental solution empowers businesses to offer products on a temporary basis, reducing resource consumption and providing flexibility to customers.</p>
+                        
+                            <div class="row mt-4">
+                                <div class="col-12">
+                                    <ul class="mb-0 list-unstyled">
+                                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span> Reduced resource consumption through shared product usage.</li>
+                                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span> Minimized production of new goods, contributing to sustainability.</li>
+                                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span>Cost-effective options for customers, promoting affordability. </li>
+                                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span> Flexibility to adapt to changing customer demands. </li>
+                                    </ul>
+                                </div><!--end col-->
+                            </div><!--end row-->
+
+                            <div class="mt-4">
+                                <a href="product-rental.php" class="btn btn-primary">Read More <i class="uil uil-arrow-right align-middle"></i></a>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                    <div class="col-lg-5 col-md-6">
+                        <img src="images/about02.jpg" class="img-fluid rounded shadow" alt="">
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container-->
+
+
+            <div class="container mt-100 mt-60">
+                <div class="row align-items-center">
+                    <div class="col-lg-5 col-md-6">
+                        <img src="images/about02.jpg" class="img-fluid rounded shadow" alt="">
+                    </div><!--end col-->
+
+                    <div class="col-lg-7 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                        <div class="section-title ms-lg-5">
+                            <h4 class="title fw-semibold mb-3">Recommerce Solution</h4>
+                            <p class="text-muted para-desc mb-0">Olik's Recommerce solution revolutionizes how businesses manage excess inventory and embrace the circular economy.</p>
+                        
+                            <div class="row mt-4">
+                                <div class="col-12">
+                                    <ul class="mb-0 list-unstyled">
+                                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span> Extended product lifespan through reselling, refurbishing, and recycling.</li>
+                                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span> Reduced waste generation and minimized environmental impact.</li>
+                                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span>  Enhanced sustainability credentials and positive brand image. </li>
+                                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span>  Cost savings through effective inventory management.</li>
+                                    </ul>
+                                </div><!--end col-->
+                            </div><!--end row-->
+
+                            <div class="mt-4">
+                                <a href="product-recommerce.php" class="btn btn-primary">Read More <i class="uil uil-arrow-right align-middle"></i></a>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container-->
         </section><!--end section-->
+
+        <!--end section-->
         <!-- End -->
-        <section class="section" id="product">
+        <!-- <section class="section" id="product">
             <div class="container">
                 <div class="row">
                     <h3 class="text-center pb-4" >Products</h3>
@@ -184,82 +343,38 @@
                             </div>
 
                         </div>
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end container-->
-        </section>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+
+
         <!-- Start CTA -->
-        <section class="bg-cta" id="contact" style="background: url('images/sustain.jpg') center;">
+
+        <section class="section">
             <div class="container">
-                <div class="row justify-content-end">
-                    <div class="col-lg-5 col-md-6 col-12">
-                        <div class="card p-4 border-0 rounded bg-white">
-                            <h4>Happy to help!</h4>
-                            <div id="done"></div>
-                            <form id="leave-comment" class="mt-4 comment-form" novalidate="validate" onSubmit="return false;" action="">
-                                <div class="row">
-                                    <div class="col-md-6">
+            <div class="section-title ms-lg-5 py-10"  >
+                            <h4 class="title fw-semibold text-center mb-10">Our Partners</h4></div>
+                <div class="row justify-content-center">
+                    
+                    <div class="col-lg-2 col-md-2 col-6 text-center mt-4">
+                        <img src="images/client-logos/H&M-logo.png" height="46" alt="H&M">
+                    </div><!--end col-->
 
-                                        <div class="mb-3">
-                                            <label class="form-label">Purpose <span class="text-danger">*</span></label>
-                                            <div class="bootselect-multiselect">
-                                                <select class="form-control" id="purpose" name="purpose" required>
-                                                    <option value="" disabled selected>-Select-</option>
-                                                    <option value="Product Demo">Product Demo</option>
-                                                    <option value="Job">Career Opportunity</option>
-                                                    <option value="Investment">Investment</option>
-                                                    <option value="Others">Others</option>
-                                                </select>
-                                            </div>
-                                            <div id="purpose-error" class="error-text"></div>
-                                        </div>
-                                    </div>
+                    <div class="col-lg-2 col-md-2 col-6 text-center mt-4">
+                        <img src="images/client-logos/decathlon-logo.png" height="46" alt="Decathlon">
+                    </div><!--end col-->
 
-                                    <div class="col-md-6">
-                                        <div class="mb-3">
-                                            <label class="form-label">Your Name <span class="text-danger">*</span></label>
-                                            <input type="text" name="name" id="name" class="form-control name" placeholder="Enter Your Name" required>
-                                            <div id="name-error" class="error-text"></div>
-                                        </div>
-                                    </div>
+                    <div class="col-lg-2 col-md-2 col-6 text-center mt-4">
+                        <img src="images/client-logos/ikea-logo.jpeg" height="44" alt="IKEA">
+                    </div><!--end col-->
 
-                                    <div class="col-md-6">
-                                        <div class="mb-3">
-                                            <label class="form-label">Contact Number <span class="text-danger">*</span></label>
-                                            <input type="text" name="phone" id="phone" class="form-control phone" placeholder="Contact Number" required>
-                                            <div id="phone-error" class="error-text"></div>
-                                        </div>
-                                    </div><!--end col-->
-
-                                    <div class="col-md-6">
-                                        <div class="mb-3">
-                                            <label class="form-label">Email <span class="text-danger">*</span></label>
-                                            <input type="email" name="email" id="email" class="form-control email" placeholder="Enter Your Email" required>
-                                            <div id="email-error" class="error-text"></div>
-                                        </div>
-                                    </div><!--end col-->
-                                    <div class="col-12">
-                                        <div class="mb-3">
-                                            <label class="form-label">Comments <span class="text-danger">*</span></label>
-                                            <textarea id="message" name="message" rows="4" class="form-control" placeholder="Message :"></textarea>
-                                            <div id="message-error" class="error-text"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row" >
-                                    <div class="col-12">
-                                        <button class="btn btn-primary submit g-recaptcha" 
-                                                      data-sitekey="6LcqQE4jAAAAAOW3f0AwD5oV0uDf1__OeMdCaqJK" 
-                                                      data-callback='onSubmit' 
-                                                      data-action='submit'>Contact Us</button>
-                                    </div><!--end col-->
-                                </div><!--end row-->
-                            </form>
-                        </div>
+                    <div class="col-lg-2 col-md-2 col-6 text-center mt-4">
+                        <img src="images/client-logos/sangeetha-mobiles-logo.png" height="46" alt="Sangeetha Mobiles">
                     </div><!--end col-->
                 </div><!--end row-->
             </div><!--end container-->
-        </section><!--end section-->
+</section>
         <!-- End CTA -->
 
         <!-- 6LcqQE4jAAAAAOW3f0AwD5oV0uDf1__OeMdCaqJK -->

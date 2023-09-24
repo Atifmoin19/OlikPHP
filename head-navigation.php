@@ -26,24 +26,25 @@
                 <div id="navigation">
                     <!-- Navigation Menu-->
                     <ul class="navigation-menu nav-right nav-light">
-                        <li><a href="index.php#" class="sub-menu-item">Home</a></li>
+                        <li><a href="index.php" class="sub-menu-item">Home</a></li>
+                        <li><a href="about-us.php" class="sub-menu-item">About Us</a></li>
 
                         <li class="has-submenu parent-parent-menu-item">
                             <a href="javascript:void(0)">Products</a><span class="menu-arrow"></span>
                             <ul class="submenu">
-                                <li><a href="index.php#product" class="sub-menu-item">Re-Commerce</a></li>
-                                <li><a href="index.php#product" class="sub-menu-item">Rental</a></li>
-                                <li><a href="index.php#product" class="sub-menu-item">Repair</a></li>
+                                <li><a href="product-recommerce.php" class="sub-menu-item">Re-Commerce</a></li>
+                                <li><a href="product-rental.php" class="sub-menu-item">Rental</a></li>
+                                <li><a href="product-repair.php" class="sub-menu-item">Repair</a></li>
                             </ul>
                         </li>
-
-                        <li class="has-submenu parent-parent-menu-item">
-                            <a href="javascript:void(0)">Industries</a><span class="menu-arrow"></span>
+                        <li><a href="industries.php" class="sub-menu-item">Industries</a></li>
+                        <!-- <li class="has-submenu parent-parent-menu-item">
+                            <a href="javascript:void(0)">Industries</a>
                             <ul class="submenu">
                                 <li><a href="#" class="sub-menu-item">Retails</a></li>
                                 <li><a href="#" class="sub-menu-item">Automobile</a></li>
                             </ul>
-                        </li>
+                        </li> -->
                         <li><a href="contact-us.php" class="sub-menu-item">Contact us</a></li>
                     </ul><!--end navigation menu-->
                 </div><!--end navigation-->

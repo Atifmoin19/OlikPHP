@@ -173,7 +173,7 @@
                   <div class="col-md-6">
                     <div class="mb-3">
                       <label class="form-label"
-                        >Your Name <span class="text-danger">*</span></label
+                        >Name <span class="text-danger">*</span></label
                       >
                       <input
                         name="name"
@@ -188,7 +188,7 @@
                   <div class="col-md-6">
                     <div class="mb-3">
                       <label class="form-label"
-                        >Your Email <span class="text-danger">*</span></label
+                        >Email <span class="text-danger">*</span></label
                       >
                       <input
                         name="email"
@@ -199,17 +199,37 @@
                       />
                     </div>
                   </div>
+                  <div class="col-md-6">
+                    <div class="mb-3">
+                      <label class="form-label"
+                        >Oragnization <span class="text-danger">*</span></label
+                      >
+                      <input
+                        name="organization"
+                        id="organization"
+                        type="text"
+                        class="form-control"
+                        placeholder="Where do you work? :"
+                      />
+                    </div>
+                  </div>
                   <!--end col-->
 
-                  <div class="col-12">
+                  <div class="col-md-6">
                     <div class="mb-3">
-                      <label class="form-label">Subject</label>
-                      <input
+                      <label class="form-label">Enquiry Type</label>
+                      <select  name="Enquiry" id="Enquiry" class="form-control">
+                      <option value=''>Select</option>
+                        <option value='Product'>Product: (You have a question about our product or service.)</option>
+                        <option value='General'>General: (You have a general question about our company or our mission.)</option>
+                        <option value='Usability'>Usability: (You're having trouble using our website or product.)</option>
+                      </select>
+                      <!-- <input
                         name="subject"
                         id="subject"
                         class="form-control"
                         placeholder="Subject :"
-                      />
+                      /> -->
                     </div>
                   </div>
                   <!--end col-->
