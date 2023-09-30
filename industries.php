@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="utf-8" />
-        <title>Olik - Empowering businesses to achieve Circularity the digital way</title>
+        <title>Olik - Industries</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Olik offers a range of innovative tech products empowering retail brands to achieve circularity through rental, repair, and re-commerce. Boost revenue, enhance customer satisfaction, and reduce environmental impact with Olik." />
         <meta name="keywords" content="Sustainable retail solutions, Circular economy tech products, Re-commerce platform, Green retail solutions" />
@@ -60,7 +60,7 @@
             <div class="container pb-5">
                 <div class="row align-items-center">
                     <div class="col-lg-4 col-md-4 px-4">
-                        <img src="images/about.jpg" class="img-fluid rounded shadow w-3" alt="">
+                        <img src="images/industries.png" class="img-fluid rounded shadow w-3" alt="">
                     </div><!--end col-->
 
                     <div class="col-lg-7 col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0">
@@ -92,12 +92,12 @@
                             <div class="row">                                
                                 <div class="col-md-12 mt-4 pt-2">
                                     <div class="features feature-primary rounded border-0 d-flex">
-                                        <div class="fea-icon rounded-circle text-white title-dark shadow avatar avatar-md-sm" style="height: 40px; width: 40px;">
-                                            1
+                                        <div class="fea-icon rounded-circle text-white justify-content-center align-items-center" style="height: 40px; width: 40px; text-align:center">
+                                        <span class="mdi mdi-car-back h2 m-0"></span>
                                         </div>
             
                                         <div class="content flex-1 ms-3">
-                                            <a href="page-single-service.html" class="title h5 text-dark">Automobiles</a>
+                                            <a href="#" class="title h5 text-dark">Automobiles</a>
                                             <p class="text-muted mt-2 mb-0">Streamline workshop operations, optimize resource utilization, and enhance customer experiences in the automotive industry.</p>
                                         </div>
                                     </div>
@@ -105,12 +105,12 @@
                                 
                                 <div class="col-md-12 mt-4 pt-2">
                                     <div class="features feature-primary rounded border-0 d-flex">
-                                        <div class="fea-icon rounded-circle text-white title-dark shadow avatar avatar-md-sm" style="height: 40px; width: 40px;">
-                                            2
+                                    <div class="fea-icon rounded-circle text-white justify-content-center align-items-center" style="height: 40px; width: 40px; text-align:center">
+                                        <span class="mdi mdi-store h2 m-0"></span>
                                         </div>
             
                                         <div class="content flex-1 ms-3">
-                                            <a href="page-single-service.html" class="title h5 text-dark">Retail</a>
+                                            <a href="#" class="title h5 text-dark">Retail</a>
                                             <p class="text-muted mt-2 mb-0">Improve workshop efficiency, reduce waste, and provide exceptional customer service in the retail industry.</p>
                                         </div>
                                     </div>
@@ -118,12 +118,12 @@
                                 
                                 <div class="col-md-12 mt-4 pt-2">
                                     <div class="features feature-primary rounded border-0 d-flex">
-                                        <div class="fea-icon rounded-circle text-white title-dark shadow avatar avatar-md-sm" style="height: 40px; width: 40px;">
-                                            3
+                                    <div class="fea-icon rounded-circle text-white justify-content-center align-items-center" style="height: 40px; width: 40px; text-align:center">
+                                    <span class="mdi mdi-cogs h3 m-0"></span>
                                         </div>
             
                                         <div class="content flex-1 ms-3">
-                                            <a href="page-single-service.html" class="title h5 text-dark">Manufacturing</a>
+                                            <a href="#" class="title h5 text-dark">Manufacturing</a>
                                             <p class="text-muted mt-2 mb-0">Digitize workshop processes, ensure resource efficiency, and enable data-driven decision-making in the manufacturing industry.</p>
                                         </div>
                                     </div>
@@ -134,10 +134,8 @@
                         </div>
                     </div><!--end col-->
 
-                    <div class="col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0">
-                        <div class="img-fluid-responsive position-relative">
-                            <img src="images/lapy.png" class="mx-auto d-block" alt="">
-                        </div>
+                    <div class="col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0" style="background:url('images/repair-ill-0.png') no-repeat center;height:350px;background-size:cover; overflow:hidden">
+                    
                     </div><!--end col-->
                 </div><!--end row-->
             </div><!--end container--> 
@@ -147,10 +145,8 @@
         <section class="section bg-light overflow-hidden">
             <div class="container">
                 <div class="row align-items-center">
-                <div class="col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0">
-                        <div class="img-fluid-responsive position-relative">
-                            <img src="images/lapy.png" class="mx-auto d-block" alt="">
-                        </div>
+                <div class="col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0" style="background:url('images/recommerce-ill-0.png') no-repeat center;height:350px;background-size:cover; overflow:hidden">
+                      
                     </div><!--end col-->
                     <div class="col-md-6">
                         <div class="me-lg-5">
@@ -166,25 +162,25 @@
                             <div class="row">                                
                                 <div class="col-md-12 mt-4 pt-2">
                                     <div class="features feature-primary rounded border-0 d-flex">
-                                        <div class="fea-icon rounded-circle text-white title-dark shadow avatar avatar-md-sm" style="height: 40px; width: 40px;">
-                                            1
+                                    <div class="fea-icon rounded-circle text-white justify-content-center align-items-center" style="height: 40px; width: 40px; text-align:center">
+                                    <span class="mdi mdi-store h2 m-0"></span> 
                                         </div>
             
                                         <div class="content flex-1 ms-3">
-                                            <a href="page-single-service.html" class="title h5 text-dark">Retail</a>
-                                            <p class="text-muted mt-2 mb-0">SEmbrace the circular economy, reduce excess inventory, and enhance sustainability in the retail industry.</p>
+                                            <a href="#" class="title h5 text-dark">Retail</a>
+                                            <p class="text-muted mt-2 mb-0">Embrace the circular economy, reduce excess inventory, and enhance sustainability in the retail industry.</p>
                                         </div>
                                     </div>
                                 </div><!--end col-->
                                 
                                 <div class="col-md-12 mt-4 pt-2">
                                     <div class="features feature-primary rounded border-0 d-flex">
-                                        <div class="fea-icon rounded-circle text-white title-dark shadow avatar avatar-md-sm" style="height: 40px; width: 40px;">
-                                            2
+                                    <div class="fea-icon rounded-circle text-white justify-content-center align-items-center" style="height: 40px; width: 40px; text-align:center">
+                                    <span class="mdi mdi-hanger h3 m-0"></span>
                                         </div>
             
                                         <div class="content flex-1 ms-3">
-                                            <a href="page-single-service.html" class="title h5 text-dark">Fashion</a>
+                                            <a href="#" class="title h5 text-dark">Fashion</a>
                                             <p class="text-muted mt-2 mb-0">Extend the lifespan of clothing and accessories, minimize waste, and promote sustainable fashion practices.</p>
                                         </div>
                                     </div>
@@ -192,12 +188,12 @@
                                 
                                 <div class="col-md-12 mt-4 pt-2">
                                     <div class="features feature-primary rounded border-0 d-flex">
-                                        <div class="fea-icon rounded-circle text-white title-dark shadow avatar avatar-md-sm" style="height: 40px; width: 40px;">
-                                            3
+                                    <div class="fea-icon rounded-circle text-white justify-content-center align-items-center" style="height: 40px; width: 40px; text-align:center">
+                                    <span class="mdi mdi-flash h3 m-0"></span>
                                         </div>
             
                                         <div class="content flex-1 ms-3">
-                                            <a href="page-single-service.html" class="title h5 text-dark">Electronics</a>
+                                            <a href="#" class="title h5 text-dark">Electronics</a>
                                             <p class="text-muted mt-2 mb-0">Manage product returns and end-of-life cycles responsibly, reducing environmental impact in the electronics industry.</p>
                                         </div>
                                     </div>
@@ -232,12 +228,12 @@
                             <div class="row">                                
                                 <div class="col-md-12 mt-4 pt-2">
                                     <div class="features feature-primary rounded border-0 d-flex">
-                                        <div class="fea-icon rounded-circle text-white title-dark shadow avatar avatar-md-sm" style="height: 40px; width: 40px;">
-                                            1
+                                    <div class="fea-icon rounded-circle text-white justify-content-center align-items-center" style="height: 40px; width: 40px; text-align:center">
+                                    <span class="mdi mdi-calendar-check h3 m-0"></span>
                                         </div>
             
                                         <div class="content flex-1 ms-3">
-                                            <a href="page-single-service.html" class="title h5 text-dark">Events</a>
+                                            <a href="#" class="title h5 text-dark">Events</a>
                                             <p class="text-muted mt-2 mb-0">Offer flexible rental options for event organizers, reducing the need for single-use items and promoting sustainability in the events industry.</p>
                                         </div>
                                     </div>
@@ -245,12 +241,12 @@
                                 
                                 <div class="col-md-12 mt-4 pt-2">
                                     <div class="features feature-primary rounded border-0 d-flex">
-                                        <div class="fea-icon rounded-circle text-white title-dark shadow avatar avatar-md-sm" style="height: 40px; width: 40px;">
-                                            2
+                                    <div class="fea-icon rounded-circle text-white justify-content-center align-items-center" style="height: 40px; width: 40px; text-align:center">
+                                    <span class="mdi mdi-hospital-box h3 m-0"></span>
                                         </div>
             
                                         <div class="content flex-1 ms-3">
-                                            <a href="page-single-service.html" class="title h5 text-dark">Hospitality</a>
+                                            <a href="#" class="title h5 text-dark">Hospitality</a>
                                             <p class="text-muted mt-2 mb-0">Provide temporary equipment and furniture rentals to hotels and resorts, minimizing resource consumption in the hospitality industry.</p>
                                         </div>
                                     </div>
@@ -258,12 +254,12 @@
                                 
                                 <div class="col-md-12 mt-4 pt-2">
                                     <div class="features feature-primary rounded border-0 d-flex">
-                                        <div class="fea-icon rounded-circle text-white title-dark shadow avatar avatar-md-sm" style="height: 40px; width: 40px;">
-                                            3
+                                    <div class="fea-icon rounded-circle text-white justify-content-center align-items-center" style="height: 40px; width: 40px; text-align:center">
+                                    <span class="mdi mdi-account-hard-hat h3 m-0"></span>
                                         </div>
             
                                         <div class="content flex-1 ms-3">
-                                            <a href="page-single-service.html" class="title h5 text-dark">Construction</a>
+                                            <a href="#" class="title h5 text-dark">Construction</a>
                                             <p class="text-muted mt-2 mb-0">Optimize resource utilization, reduce waste, and support sustainable construction practices through equipment rental solutions.</p>
                                         </div>
                                     </div>
@@ -274,10 +270,8 @@
                         </div>
                     </div><!--end col-->
 
-                    <div class="col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0">
-                        <div class="img-fluid-responsive position-relative">
-                            <img src="images/lapy.png" class="mx-auto d-block" alt="">
-                        </div>
+                    <div class="col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0" style="background:url('images/rent-ill-0.png') no-repeat center;height:350px;background-size:contain; overflow:hidden">
+                       
                     </div><!--end col-->
                 </div><!--end row-->
             </div><!--end container--> 

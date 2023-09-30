@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="utf-8" />
-        <title>Olik - Empowering businesses to achieve Circularity the digital way</title>
+        <title>Olik - Rental Solution</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Olik offers a range of innovative tech products empowering retail brands to achieve circularity through rental, repair, and re-commerce. Boost revenue, enhance customer satisfaction, and reduce environmental impact with Olik." />
         <meta name="keywords" content="Sustainable retail solutions, Circular economy tech products, Re-commerce platform, Green retail solutions" />

@@ -51,14 +51,14 @@
 
         </section> -->
         <!--end section-->
-        <section class="bg-half-170 pb-0 d-table w-100" style="background: url('images/bg/corporate01.png') no-repeat center; background-size:cover">
+        <section class="bg-half-170 pb-0 d-table w-100" style="background: url('images/bg/hero-home.png') no-repeat center; background-size:cover" b>
         <div class="bg-overlay bg-gradient-multiply" style='opacity:0.5'></div>    
         <div class="container">
                 <div class="row mt-5 align-items-center">
                     <div class="col-lg-7 col-md-6">
                         <div class="title-heading">
-                            <h4 class="display-4 mb-4 fw-bold title-dark"> Digitalizing Circularity <br>Journey for Brands</h4>
-                            <p class="text-black-50 para-desc mb-0">Empowering Businesses to Overcome Environmental Challenges</p>
+                            <h4 class="display-4 mb-4 fw-bold text-white"> Digitalizing Circularity <br>Journey for Brands</h4>
+                            <p class="text-white-50 para-desc mb-0">Empowering Businesses to Overcome Environmental Challenges</p>
                             <div class="mt-4 pt-2">
                                 <a href="contact-us.php" class="btn btn-lg btn-pills btn-primary">Work with us</a>
                             </div>
@@ -138,7 +138,7 @@
                             </div>
 
                             <div class="content mt-3">
-                                <a href="page-single-service.html" class="title h6 text-dark"> Inefficient Processes and Resource Wastage</a>
+                                <a href="#" class="title h6 text-dark"> Inefficient Processes and Resource Wastage</a>
                                 <p class="text-muted mt-2 mb-0 text-xs"><small>Businesses often struggle with workshop operations, leading to time and resource inefficiencies. Without proper management, materials and resources are wasted, impacting profitability and sustainability efforts.</small></p>
                             </div>
                         </div>
@@ -151,7 +151,7 @@
                             </div>
 
                             <div class="content mt-3">
-                                <a href="page-single-service.html" class="title h6 text-dark">Excessive Inventory and Environmental Impact</a>
+                                <a href="#" class="title h6 text-dark">Excessive Inventory and Environmental Impact</a>
                                 <p class="text-muted para mt-2 mb-0 text-xs">
 <small>
 The fast-paced consumer landscape results in excess inventory, which contributes to environmental degradation. Disposing of unsold products puts a strain on resources and harms the planet.
@@ -168,7 +168,7 @@ The fast-paced consumer landscape results in excess inventory, which contributes
                             </div>
 
                             <div class="content mt-3">
-                                <a href="page-single-service.html" class="title h6 text-dark">High Consumption and Storage Challenges</a>
+                                <a href="#" class="title h6 text-dark">High Consumption and Storage Challenges</a>
                                 <p class="text-muted para mt-2 mb-0 text-xs">
 <small>
 Businesses face the dilemma of meeting consumer demand while minimizing resource consumption. High upfront costs and storage requirements pose additional hurdles to sustainable practices.
@@ -182,9 +182,9 @@ Businesses face the dilemma of meeting consumer demand while minimizing resource
 
             <div class="container mt-100 mt-60">
                 <div class="row align-items-center">
-                    <div class="col-lg-5 col-md-6">
-                        <img src="images/about02.jpg" class="img-fluid rounded shadow" alt="">
-                    </div><!--end col-->
+                <div class="col-lg-5 col-md-6 px-4" style="background:url('images/repair-ill.png') no-repeat center;height:350px;background-size:cover; overflow:hidden">
+
+</div>
 
                     <div class="col-lg-7 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
                         <div class="section-title ms-lg-5">
@@ -234,20 +234,21 @@ Businesses face the dilemma of meeting consumer demand while minimizing resource
                             </div>
                         </div>
                     </div><!--end col-->
-                    <div class="col-lg-5 col-md-6">
-                        <img src="images/about02.jpg" class="img-fluid rounded shadow" alt="">
-                    </div><!--end col-->
+                    <div class="col-lg-5 col-md-6 px-4" style="background:url('images/rent-ill.png') no-repeat center;height:350px;background-size:contain; overflow:hidden">
+
+</div>
                 </div><!--end row-->
             </div><!--end container-->
 
 
             <div class="container mt-100 mt-60">
                 <div class="row align-items-center">
-                    <div class="col-lg-5 col-md-6">
-                        <img src="images/about02.jpg" class="img-fluid rounded shadow" alt="">
-                    </div><!--end col-->
+                <div class="col-lg-5 col-md-6 px-4" style="background:url('images/recommerce-ill-0.png') no-repeat center;height:350px;background-size:cover; overflow:hidden">
+
+</div><!--end col-->
 
                     <div class="col-lg-7 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                        
                         <div class="section-title ms-lg-5">
                             <h4 class="title fw-semibold mb-3">Recommerce Solution</h4>
                             <p class="text-muted para-desc mb-0">Olik's Recommerce solution revolutionizes how businesses manage excess inventory and embrace the circular economy.</p>

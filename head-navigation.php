@@ -28,6 +28,7 @@
                     <ul class="navigation-menu nav-right nav-light">
                         <li><a href="index.php" class="sub-menu-item">Home</a></li>
                         <li><a href="about-us.php" class="sub-menu-item">About Us</a></li>
+                        <li><a href="pricing.php" class="sub-menu-item">Pricing</a></li>
 
                         <li class="has-submenu parent-parent-menu-item">
                             <a href="javascript:void(0)">Products</a><span class="menu-arrow"></span>

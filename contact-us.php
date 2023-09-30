@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="utf-8" />
-        <title>Olik - Empowering businesses to achieve Circularity the digital way</title>
+        <title>Olik - Contact Us</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Olik offers a range of innovative tech products empowering retail brands to achieve circularity through rental, repair, and re-commerce. Boost revenue, enhance customer satisfaction, and reduce environmental impact with Olik." />
         <meta name="keywords" content="Sustainable retail solutions, Circular economy tech products, Re-commerce platform, Green retail solutions" />
@@ -70,7 +70,7 @@
     <section class="section pb-0 pt-5">
       <div class="container">
         <div class="row d-flex align-items-start ">
-          <div class="col-md-4 mt-4 mt-sm-0 pt-2 pt-sm-0">
+          <div class="col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
             <div
               class="card border-0 text-center features feature-clean bg-transparent"
             >
@@ -81,27 +81,24 @@
                        </div>
               <div class="content mt-3">
                 <h5 class="footer-head">Contact Information</h5>
-                <a href="tel:+152534-468-854" class="text-foot d-flex justify-content-center align-items-start gap-2"
-                  > <i class="uil uil-phone rounded h5"></i> <p class='mb-0'>+152 534-468-854</p> </a
-                >
-                <a href="mailto:contact@example.com" class="text-foot d-flex justify-content-center align-items-start gap-2"
-                  ><i class="uil uil-envelope rounded h5"></i> <p class='mb-0'>contact@example.com</p> </a
-                >
-                <a
-                  href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39206.002432144705!2d-95.4973981212445!3d29.709510002925988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640c16de81f3ca5:0xf43e0b60ae539ac9!2sGerald+D.+Hines+Waterwall+Park!5e0!3m2!1sen!2sin!4v1566305861440!5m2!1sen!2sin"
-                  data-type="iframe"
-                  class="text-foot d-flex justify-content-center align-items-start gap-2"
-                  > <i class="uil uil-map-marker rounded h5"></i> <p class="">
-                  C/54 Northwest Freeway, Suite 558, <br />Houston, USA 485
+             
+                <p
+                  class="d-flex gap-2"
+                  > <p class="" style="text-align:left; font-size:13px">
+                 <span class='text-primary fw-semibold'>Singapore</span>  - 68 CIRCULAR ROAD, #02-01, SINGAPORE, 049422
+                  <br/>
+<span class='text-primary fw-semibold'>India </span>- Second Floor, 66-A, Block C, Pratap Nagar, Mayur Vihar, New Delhi, Delhi, 110091
+<br/>
+<span class='text-primary fw-semibold'>USA</span> - Lewes, Delaware
                 </p>
-             </a
+             </p
                 >
               </div>
             </div>
           </div>
           <!--end col-->
 
-          <div class="col-md-4 mt-4 mt-sm-0 pt-2 pt-sm-0">
+          <div class="col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
             <div
               class="card border-0 text-center features feature-clean bg-transparent"
             >
@@ -109,41 +106,27 @@
               <i class="fa-solid fa-headset "></i>  
 
               </div>
-              <div class="content mt-3">
+              <div class="content mt-3 mx-3">
                 <h5 class="footer-head">Customer Support</h5>
-                <p class="text-muted mb-0">
-               <small> Our dedicated customer support team is ready to assist you with any questions or concerns you may have.</small>
+                <p
+                  class="d-flex justify-content-start gap-2"
+                  > <p class="" style="text-align:left; font-size:13px">
+              Our dedicated customer support team is ready to assist you with any questions or concerns you may have.
                 </p>
-               <a><p class='m-0 text-#15af62' >Operating Hours</p> <small clas='m-0'>Monday-Friday, 9:00 AM - 5:00 PM</small> </a>
-              </div>
+
+               <p class='text-primary fw-semibold' style="text-align:left; font-size:13px" >Operating Hours - All Day, 24/7</p>
+              <div class="d-flex gap-3"> <a href="mailto:ask@olik.ai" class="text-foot d-flex justify-content-center align-items-start gap-2"
+                  ><i class="uil uil-envelope rounded h5"></i> <p class='m-0'>ask@olik.ai</p> </a
+                >
+                <a href="mailto:sales@olik.in" class="text-foot d-flex justify-content-center align-items-start gap-2"
+                  ><i class="uil uil-envelope rounded h5"></i> <p class='m-0'>sales@olik.in</p> </a
+                ></div>
+</p>
             </div>
           </div>
           <!--end col-->
-
-          <div class="col-md-4 mt-4 mt-sm-0 pt-2 pt-sm-0">
-            <div
-              class="card border-0 text-center features feature-clean bg-transparent"
-            >
-              <div class="icons text-primary text-center mx-auto  d-block rounded h3 mb-0">
-              <i class="fa-solid fa-info"></i>
-              
-              </div>
-              <div class="content mt-3">
-                <h5 class="footer-head">Sales Inquiries</h5>
-                <p class="text-muted mb-0">
-                <small> 
-                For sales inquiries, product demos, or partnership opportunities, please get in touch with our sales team.
-                </small>
-                </p>
-                <a href="tel:+152534-468-854" class="text-foot d-flex justify-content-center align-items-start gap-2"
-                  > <i class="uil uil-phone rounded h5"></i> <p class='mb-0'>+152 534-468-854</p> </a
-                >
-                <a href="mailto:contact@example.com" class="text-foot d-flex justify-content-center align-items-start gap-2"
-                  ><i class="uil uil-envelope rounded h5"></i> <p class='m-0'>contact@example.com</p> </a
-                >
-              </div>
-            </div>
-          </div>
+</div>
+    
        
           <!--end col-->
         </div>
@@ -284,11 +267,7 @@
           <div class="col-12 p-0">
             <div class="card map border-0">
               <div class="card-body p-0">
-                <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39206.002432144705!2d-95.4973981212445!3d29.709510002925988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640c16de81f3ca5:0xf43e0b60ae539ac9!2sGerald+D.+Hines+Waterwall+Park!5e0!3m2!1sen!2sin!4v1566305861440!5m2!1sen!2sin"
-                  style="border: 0"
-                  allowfullscreen
-                ></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8126864525784!2d103.8491423!3d1.2864418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da190bb5febd0b%3A0x3999e3ace9eb9af!2s68%20Circular%20Rd%2C%20Unit%2002-01%2C%20Singapore%20049422!5e0!3m2!1sen!2sin!4v1696056184710!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
               </div>
             </div>
           </div>

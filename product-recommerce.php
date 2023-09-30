@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="utf-8" />
-        <title>Olik - Empowering businesses to achieve Circularity the digital way</title>
+        <title>Olik - Recommerce Solution</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Olik offers a range of innovative tech products empowering retail brands to achieve circularity through rental, repair, and re-commerce. Boost revenue, enhance customer satisfaction, and reduce environmental impact with Olik." />
         <meta name="keywords" content="Sustainable retail solutions, Circular economy tech products, Re-commerce platform, Green retail solutions" />
@@ -72,9 +72,9 @@
                             <h5 class="my-2">Key Features:</h5>
 
                             <ul class="list-unstyled text-muted mb-0">
-                                <li class="mb-0"><span class="text-primary h5 me-2"><i class="uil uil-check-circle align-middle"></i></span>Seamless integration with e-commerce platforms for reselling products</li>
+                                <li class="mb-0"><span class="text-primary h5 me-2"><i class="uil uil-check-circle align-middle"></i></span>Assessing product Viability - Buyback</li>
+                                <li class="mb-0"><span class="text-primary h5 me-2"><i class="uil uil-check-circle align-middle"></i></span>Intelligent price. Estimation - Buyback & Resell</li>
                                 <li class="mb-0"><span class="text-primary h5 me-2"><i class="uil uil-check-circle align-middle"></i></span>Refurbishment and quality control processes to maximize product value</li>
-                                <li class="mb-0"><span class="text-primary h5 me-2"><i class="uil uil-check-circle align-middle"></i></span>Recyclability assessment and guidance for environmentally friendly disposal</li>
                                 <li class="mb-0"><span class="text-primary h5 me-2"><i class="uil uil-check-circle align-middle"></i></span>Analytics and reporting on recommerce performance and sustainability metrics</li>
                             </ul>    
                             <div class="mt-4">

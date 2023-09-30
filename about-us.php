@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="utf-8" />
-        <title>Olik - Empowering businesses to achieve Circularity the digital way</title>
+        <title>Olik - About</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Olik offers a range of innovative tech products empowering retail brands to achieve circularity through rental, repair, and re-commerce. Boost revenue, enhance customer satisfaction, and reduce environmental impact with Olik." />
         <meta name="keywords" content="Sustainable retail solutions, Circular economy tech products, Re-commerce platform, Green retail solutions" />
@@ -61,7 +61,7 @@
             <div class="container pb-5">
                 <div class="row align-items-center">
                     <div class="col-lg-5 col-md-6 px-4">
-                        <img src="images/about.jpg" class="img-fluid rounded shadow" alt="">
+                        <img src="images/About-Us.png" class="img-fluid rounded shadow" alt="">
                     </div><!--end col-->
 
                     <div class="col-lg-7 col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0">
@@ -94,7 +94,7 @@
                         </div>
                     </div><!--end col-->
                     <div class="col-lg-5 col-md-6 px-4">
-                        <img src="images/about.jpg" class="img-fluid rounded shadow" alt="">
+                        <img src="images/Team.png" class="img-fluid rounded shadow" alt="">
                     </div><!--end col-->
                 </div><!--end row-->
             </div><!--end container-->
@@ -110,7 +110,7 @@
                             <i class="uil uil-trees icon h1"></i>
 
                             <div class="content">
-                                <a href="page-single-service.html" class="title text-dark h5">Sustainability</a>
+                                <a href="#" class="title text-dark h5">Sustainability</a>
 
                                 <p class="text-muted mb-0 mt-3">We are deeply committed to promoting sustainable practices and helping businesses reduce their environmental footprint. We believe that sustainable solutions are the key to a better future.</p>
                             </div>
@@ -122,7 +122,7 @@
                             <i class="uil uil-lightbulb-alt icon h1"></i>
 
                             <div class="content">
-                                <a href="page-single-service.html" class="title text-dark h5">Innovation</a>
+                                <a href="#" class="title text-dark h5">Innovation</a>
 
                                 <p class="text-muted mb-0 mt-3">We constantly push the boundaries of what is possible, leveraging cutting-edge technologies and ideas to drive meaningful change. We embrace creativity and think outside the box to develop unique solutions.</p>
                             </div>
@@ -136,7 +136,7 @@
 
 
                             <div class="content">
-                                <a href="page-single-service.html" class="title text-dark h5">Collaboration</a>
+                                <a href="#" class="title text-dark h5">Collaboration</a>
 
                                 <p class="text-muted mb-0 mt-3">We believe in the power of collaboration and teamwork. By working closely with our clients and partners, we foster an environment of shared learning, growth, and mutual success.</p>
                             </div>
@@ -148,7 +148,7 @@
                             <i class="uil uil-shield icon h1"></i>
 
                             <div class="content">
-                                <a href="page-single-service.html" class="title text-dark h5">Integrity</a>
+                                <a href="#" class="title text-dark h5">Integrity</a>
 
                                 <p class="text-muted mb-0 mt-3">We operate with the utmost integrity, transparency, and ethical standards. Trust and honesty are at the core of everything we do, ensuring that our relationships with clients and stakeholders are built on a strong foundation.</p>
                             </div>
@@ -162,21 +162,70 @@
 
 
         </section>
-            
-            <div class="container-fluid px-0 mt-100 mt-60">
-                <div class="bg-half-260" style="background: url('images/cta.jpg') top;">
-                    <div class="bg-overlay"></div>
-                    <div class="play-icon">
-                        <a href="javascript:void(0)" data-type="youtube" data-id="yba7hPeTSjk" class="play-btn lightbox">
-                            <i class="mdi mdi-play text-primary rounded-circle bg-white shadow"></i>
-                        </a>
-                    </div>
-                </div>
-            </div><!--end container-->
+   
+<section class="section">
+<div class="container mt-100 mt-60">
+                <div class="row justify-content-center">
+                    <div class="col-12">
+                        <div class="tiny-single-item">
+                            <div class="tiny-slide px-md-5">
+                                <div class="card client-testi text-center">
+                                    <img src="images/vikash.jpeg" class="avatar avatar-small rounded-pill mx-auto" alt="">
 
-            <!-- Partners start -->
+                                    <div class="card-body pb-0 content">
+                                        <p class="h6 fw-normal text-muted fst-italic">"From booking to complete workshop management, the journey has been incredible. Customers are enjoying the proactiveness of the digital solution and teammates are happy with the enhanced efficiency. Thanks to the simplicity and user-friendliness of Olik’s solution, we have successfully implemented it across all the Decathlon stores and the one-click analytics has helped us to make a big difference in the CSAT. With the OLIK team's innovative approach, attention to detail, follow up and quick response we have been able to build the smartest workshop management solution."</p>
 
-        </section><!--end section-->
+                                        <div class="name mt-4">
+                                            <small class="text-uppercase fw-semibold d-block">Vikash Gupta</small>
+                                            <small class="text-muted">After Sales Leader , </small>
+                                            <small class="text-muted">Decathlon India</small>
+
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="tiny-slide px-md-5">
+                                <div class="card client-testi text-center">
+                                    <img src="images/max.jpeg" class="avatar avatar-small rounded-pill mx-auto" alt="">
+
+                                    <div class="card-body pb-0 content">
+                                        <p class="h6 fw-normal text-muted fst-italic">"The Olik slot booking service (Appointment Booking & Traffic Management) was an absolutely fantastic tool to work with during IKEA Pasay City opening month. Furthermore, their customer service was second to none. Olik was there for us 24/7 and even pulled all-nighters to develop new functionality to mitigate crowding during the pandemic. I cannot recommend the Olik solution enough."</p>
+
+                                        <div class="name mt-4">
+                                            <small class="text-uppercase fw-semibold d-block">Max von Bodungene</small>
+                                            <small class="text-muted">Store Marketing Manager , </small>
+                                            <small class="text-muted">IKEA Pasay City, Philippines</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <section>
+
+                            <div class="tiny-slide px-md-5">
+                                <div class="card client-testi text-center">
+                                    <img src="images/reddy.jpeg" class="avatar avatar-small rounded-pill mx-auto" alt="">
+
+                                    <div class="card-body pb-0 content">
+                                        <p class="h6 fw-normal text-muted fst-italic">"The pandemic isn't a barrier to people choosing from a variety of phones they wanted to purchase, trying them out from the comfort of their homes. Thanks to Olik's Appointment booking solution that has amplified the customer experience as well as conversion at all our stores."</p>
+
+                                        <div class="name mt-4">
+                                            <small class="text-uppercase fw-semibold d-block">Chandu Reddy</small>
+                                            <small class="text-muted">Director , </small>
+                                            <small class="text-muted">Sangeetha Mobiles</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </section>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div>
+</section>
+       
+            <!--end container-->
         <!-- End -->
     
         <!-- Start CTA -->
@@ -190,8 +239,9 @@
 
         <!-- Footer Start -->
         <!-- Footer Start -->
-        <?php include "footer.php" ?>
         <!-- End -->
+</section>
+<?php include "footer.php" ?>
 
         <!-- Back to top -->
         <a href="javascript:void(0)" onclick="topFunction()" id="back-to-top" class="back-to-top rounded-pill"><i class="mdi mdi-arrow-up"></i></a>
