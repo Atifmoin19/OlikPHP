@@ -89,7 +89,7 @@
                   <br/>
 <span class='text-primary fw-semibold'>India </span>- Second Floor, 66-A, Block C, Pratap Nagar, Mayur Vihar, New Delhi, Delhi, 110091
 <br/>
-<span class='text-primary fw-semibold'>USA</span> - Lewes, Delaware
+<span class='text-primary fw-semibold'>USA</span> - OLIK INC. , 16192 Coastal Highway, County of Sussex, Lewes, Delaware, United States, 19958
                 </p>
              </p
                 >

@@ -40,7 +40,7 @@
                         <div class="title-heading text-center">
                             <small class="text-white-50 mb-1 fw-medium text-uppercase mx-auto">Who we are?</small>
                             <h5 class="heading fw-semibold mb-0 page-heading text-white title-dark">About Our Company</h5>
-                        <p class='text-white'>At Olik, we are on a mission to transform the way businesses navigate their sustainability journey.</p>
+                        <p class='text-white'>At Olik, we are on a mission to transform the way businesses navigate their sustainability journey</p>
 
                         </div>
                     </div><!--end col-->
