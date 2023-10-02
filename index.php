@@ -110,7 +110,7 @@
 
                     <div class="col-lg-7 col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0">
                         <div class="section-title ms-lg-5">
-                            <h4 class="title fw-semibold mb-3">At Olik, we understand the unique obstacles faced by businesses on their circularity journey.</h4>
+                            <h4 class="title fw-semibold mb-3">At Olik, we understand the unique obstacles faced by businesses on their circularity journey</h4>
                             <p class="text-muted">In an increasingly eco-conscious world, businesses in industries like retail, automobiles, fashion, and more must tackle challenges such as inefficiencies, excessive waste, and lack of visibility.</p>
                             <p class="text-muted">Olik empowers businesses to create a more sustainable future. Our innovative technology solutions enhance product usage and usability through rental, repair, and re-commerce, helping you to reduce, reuse and decrease carbon footprint.</p>
                         </div>

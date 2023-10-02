@@ -110,9 +110,9 @@
                             <i class="uil uil-trees icon h1"></i>
 
                             <div class="content">
-                                <a href="#" class="title text-dark h5">Sustainability</a>
+                                <a href="#" class="title text-dark h5">Transparency</a>
 
-                                <p class="text-muted mb-0 mt-3">We are deeply committed to promoting sustainable practices and helping businesses reduce their environmental footprint. We believe that sustainable solutions are the key to a better future.</p>
+                                <p class="text-muted mb-0 mt-3">We are deeply committed to promoting transparency practices and helping businesses reduce their environmental footprint. We believe that transparency solutions are the key to a better future.</p>
                             </div>
                         </div>
                     </div><!--end col-->
