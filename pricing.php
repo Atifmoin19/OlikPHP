@@ -87,7 +87,7 @@
                             </ul>
 
                             <div class="mt-5">
-                                <a href="javascript:void(0)" class="btn btn-lg btn-primary">Buy Now</a>
+                                <a href="contact-us.php#get-in-touch" class="btn btn-lg btn-primary">Enquire Now</a>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -104,7 +104,7 @@
                             </ul>
 
                             <div class="mt-5">
-                                <a href="javascript:void(0)" class="btn btn-lg btn-light">Buy Now</a>
+                                <a href="contact-us.php#get-in-touch" class="btn btn-lg btn-light">Enquire Now</a>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -124,7 +124,7 @@
                             </ul>
 
                             <div class="mt-5">
-                                <a href="javascript:void(0)" class="btn btn-lg btn-primary">Buy Now</a>
+                                <a href="contact-us.php#get-in-touch" class="btn btn-lg btn-primary">Enquire Now</a>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -208,96 +208,6 @@
             }
         </style>
 
-        <script>
-            
-            function onSubmit(token) {
-               createLeads1(token)
-            }
-            function createLeads1(token) {
-                var purpose = $('#purpose').val();
-                var name = $('#name').val();
-                var email = $('#email').val();
-                var mobile = $('#phone').val();
-                var comment = $('#message').val();
-               
-                var purpose_error = $('#purpose-error')
-                var name_error = $('#name-error')
-                var email_error = $('#email-error')
-                var mobile_error = $('#phone-error')
-                var comment_error = $('#message-error')
-
-                purpose_error.html("")
-                name_error.html("")
-                email_error.html("")
-                mobile_error.html("")
-                comment_error.html("")
-                let valid=true
-                if(!purpose){
-                    purpose_error.html('Please select purpose!')
-                    valid=false
-                }
-                if(!name){
-                    name_error.html('Please enter name!')
-                    valid=false
-                }
-                if(!email){
-                    email_error.html('Please enter email!')
-                    valid=false
-                }
-                if(!mobile){
-                    mobile_error.html('Please enter mobile!')
-                    valid=false
-                }
-                if(!comment){
-                    comment_error.html('Please enter comment!')
-                    valid=false
-                }
-                if(mobile && (isNaN(Number(mobile)) || mobile.length < 9)){
-                    mobile_error.html('Invalid mobile!')
-                    valid=false
-                }
-                if (email && !/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)){
-                    email_error.html('Invalid email!')
-                    valid=false
-                }
-
-                if(valid){
-                    var json = {
-                        "contact": mobile,
-                        "email": email,
-                        "message": `Purpose- ${purpose}, ` + comment ,
-                        "name": name,
-                        "source": "HomePageFooter",
-                        "token": token
-                    };
-                    $.ajax({
-                        'url': 'https://api.olik.in:5051/utils/website/contactForm',
-                        'headers': {
-                            'accept': '*/*',
-                            'X-Authorization-Firebase': 'ds',
-                            'identifier': 'ds',
-                            'Content-Type': 'application/json',
-                        },
-                        dataType: 'json',
-                        'data': JSON.stringify(json),
-                        'method': 'POST',
-                        success: function(response) {
-                            if(response.success){
-                                $('#leave-comment').hide()
-                                $('#done').fadeIn('slow').html('<font color="#48af4b">Details shared successfully. We will get back to you real quick.</font>');
-                            }else{
-                                alert(response.message)
-                            }
-                        },
-                        error: function(error) {
-                            console.log(error)
-                           
-                        }
-                                                                                                                                                                                                                                            383,6         97%
-                    });
-                }
-                return false
-            }
-         </script>
+       
     </body>
 </html>

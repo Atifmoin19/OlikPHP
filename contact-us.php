@@ -106,7 +106,7 @@
               <i class="fa-solid fa-headset "></i>  
 
               </div>
-              <div class="content mt-3 mx-3">
+              <div class="content mt-3 mx-3" >
                 <h5 class="footer-head">Customer Support</h5>
                 <p
                   class="d-flex justify-content-start gap-2"
@@ -133,22 +133,25 @@
         <!--end row-->
       </div>
       <!--end container-->
-
+<div id="get-in-touch">
+  
+</div>
       <div class="container mt-100 mt-60">
         <div class="row justify-content-center">
-          <div class="col-lg-8">
+          <div  class="col-lg-8">
             <div class="section-title mb-5 pb-2 text-center">
-              <h4 class="title mb-3">Get In Touch !</h4>
+              <h4  class="title mb-3">Get In Touch !</h4>
               <p class="text-muted para-desc mx-auto mb-0">
               If you have any general inquiries, feedback, or suggestions, we're all ears! Fill out the form below or send us an email, and we'll get back to you promptly.
               </p>
             </div>
             <div class="custom-form">
+           
               <form
-                method="post"
-                name="myForm"
-                id="myForm"
-                onsubmit="return validateForm()"
+              method="post"
+              name="myForm"
+              id="myForm"
+              onsubmit="return validateForm()"
               >
                 <p id="error-msg" class="mb-0"></p>
                 <div id="simple-msg"></div>
@@ -166,6 +169,8 @@
                         placeholder="Name :"
                       />
                     </div>
+                    <div id="name-errorr" class="error-text"></div>
+
                   </div>
 
                   <div class="col-md-6">
@@ -181,6 +186,7 @@
                         placeholder="Email :"
                       />
                     </div>
+                    <div id="email-errorr" class="error-text"></div>
                   </div>
                   <div class="col-md-6">
                     <div class="mb-3">
@@ -195,13 +201,14 @@
                         placeholder="Where do you work? :"
                       />
                     </div>
+                    <div id="organization-errorr" class="error-text"></div>
                   </div>
                   <!--end col-->
 
                   <div class="col-md-6">
                     <div class="mb-3">
-                      <label class="form-label">Enquiry Type</label>
-                      <select  name="Enquiry" id="Enquiry" class="form-control">
+                      <label class="form-label">Enquiry Type <span class="text-danger">*</span></label>
+                      <select  name="enquiry" id="enquiry" class="form-control">
                       <option value=''>Select</option>
                         <option value='Product'>Product: (You have a question about our product or service.)</option>
                         <option value='General'>General: (You have a general question about our company or our mission.)</option>
@@ -214,6 +221,8 @@
                         placeholder="Subject :"
                       /> -->
                     </div>
+                    <div id="enquiry-errorr" class="error-text"></div>
+
                   </div>
                   <!--end col-->
 
@@ -230,16 +239,19 @@
                         placeholder="Message :"
                       ></textarea>
                     </div>
+                    <div id="comments-errorr" class="error-text"></div>
+
                   </div>
                 </div>
                 <div class="row">
                   <div class="col-12">
                     <div class="d-grid">
                       <button
-                        type="submit"
+                      type="submit"
                         id="submit"
                         name="send"
                         class="btn btn-primary"
+
                       >
                         Send Message
                       </button>
@@ -306,7 +318,7 @@
         <!-- Main Js -->
         <script src="js/plugins.init.js"></script><!--Note: All init js like tiny slider, counter, countdown, maintenance, lightbox, gallery, swiper slider, aos animation etc.-->
         <script src="js/app.js"></script><!--Note: All important javascript like page loader, menu, sticky menu, menu-toggler, one page menu etc. -->
-        <script src="js/contact.js"></script><!--Note: All important javascript like page loader, menu, sticky menu, menu-toggler, one page menu etc. -->
+        <script src="js/contact.js"></script>
 
         <script src="https://www.google.com/recaptcha/api.js"></script>
         <style>
@@ -320,32 +332,33 @@
             }
         </style>
 
-        <script>
+<script>
             
             function onSubmit(token) {
                createLeads1(token)
             }
             function createLeads1(token) {
-                var purpose = $('#purpose').val();
+                var enquiry = $('#enquiry').val();
                 var name = $('#name').val();
                 var email = $('#email').val();
-                var mobile = $('#phone').val();
-                var comment = $('#message').val();
+                var organization = $('#organization').val();
+                var comments = $('#comments').val();
                
-                var purpose_error = $('#purpose-error')
-                var name_error = $('#name-error')
-                var email_error = $('#email-error')
-                var mobile_error = $('#phone-error')
-                var comment_error = $('#message-error')
 
-                purpose_error.html("")
+                var name_error = $('#name-error')
+                var enquiry_error = $('#enquiry-error')
+                var email_error = $('#email-error')
+                var organization_error = $('#organization-error')
+                var comments_error = $('#comments_error')
+
+                enquiry_error.html("")
                 name_error.html("")
                 email_error.html("")
-                mobile_error.html("")
-                comment_error.html("")
+                organization_error.html("")
+                comments_error.html("")
                 let valid=true
-                if(!purpose){
-                    purpose_error.html('Please select purpose!')
+                if(!enquiry){
+                  enquiry_error.html('Please select enquiry!')
                     valid=false
                 }
                 if(!name){
@@ -356,18 +369,21 @@
                     email_error.html('Please enter email!')
                     valid=false
                 }
-                if(!mobile){
-                    mobile_error.html('Please enter mobile!')
+                if(!organization){
+                  organization_error.html('Please enter organization!')
+                }
+                // if(!mobile){
+                //   organization_error.html('Please enter organization!')
+                //     valid=false
+                // }
+                if(!comments){
+                    comments_error.html('Please enter comment!')
                     valid=false
                 }
-                if(!comment){
-                    comment_error.html('Please enter comment!')
-                    valid=false
-                }
-                if(mobile && (isNaN(Number(mobile)) || mobile.length < 9)){
-                    mobile_error.html('Invalid mobile!')
-                    valid=false
-                }
+                // if(mobile && (isNaN(Number(mobile)) || mobile.length < 9)){
+                //     mobile_error.html('Invalid mobile!')
+                //     valid=false
+                // }
                 if (email && !/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)){
                     email_error.html('Invalid email!')
                     valid=false
@@ -375,9 +391,9 @@
 
                 if(valid){
                     var json = {
-                        "contact": mobile,
+                        "organization": organization,
                         "email": email,
-                        "message": `Purpose- ${purpose}, ` + comment ,
+                        "message": `Enquiry Type- ${enquiry}, ` + comments ,
                         "name": name,
                         "source": "HomePageFooter",
                         "token": token

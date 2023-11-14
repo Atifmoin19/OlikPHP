@@ -60,7 +60,7 @@
                             <h4 class="display-4 mb-4 fw-bold text-white"> Digitalizing Circularity <br>Journey for Brands</h4>
                             <p class="text-white-50 para-desc mb-0">Empowering Businesses to Overcome Environmental Challenges</p>
                             <div class="mt-4 pt-2">
-                                <a href="contact-us.php" class="btn btn-lg btn-pills btn-primary">Work with us</a>
+                                <a href="contact-us.php#get-in-touch" class="btn btn-lg btn-pills btn-primary">Work with us</a>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -416,7 +416,7 @@ Businesses face the dilemma of meeting consumer demand while minimizing resource
             }
         </style>
 
-        <script>
+        <!-- <script>
             
             function onSubmit(token) {
                createLeads1(token)
@@ -506,6 +506,7 @@ Businesses face the dilemma of meeting consumer demand while minimizing resource
                 }
                 return false
             }
-         </script>
-    </body>
+         </script> -->
+    
+</body>
 </html>
